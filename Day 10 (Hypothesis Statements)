@@ -1,0 +1,10 @@
+1. Employee with low education have low PercentSalaryHike and have more chances for attrition
+2. Employee who have 13% or low PercentSalaryHike have more chances for attrition
+3. Employees working as HR have higher attrition rate
+4. Employee with more years since last promotion have high attrition rate
+5. Employee who travel rarely have more chances for attrition
+6. Employees who have worked for more than 4 companies have high attrition rate.
+7. Employeed with other than Life Sciences, Medical, Marketing, Technical Degree and Human Resources have higher attrition rate.
+8. Employees who have more distance from home have high attrition rate.
+9. Employees with less than 3 times training since last year have high attrition rate
+10. Employees with less than 3 years of experience have high attrition rate
